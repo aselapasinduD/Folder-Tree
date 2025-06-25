@@ -33,6 +33,7 @@ folder_tree.exe /full/path/to/project --ignore "/build"
 
 Folder structure of the source files after building the executable file.
 ```bsh
+./Folder-Tree
 ├── assets/
 │   ├── folder-tree-100-icon.ico
 │   ├── folder-tree-100-icon.png
